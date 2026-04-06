@@ -6,10 +6,11 @@
 
 ## 🎯 项目基本信息
 
-**项目名称**: learn_trade - 股票学习之旅  
+**项目名称**: learn_trade - 美股学习之旅  
 **用户背景**: 10年算法工程师，Python编程基础  
-**学习目标**: 建立量化投资能力，6-8个月后开始实盘  
+**学习目标**: 建立美股投资能力，6-8个月后开始实盘  
 **学习时间**: 每天1-2小时，周末4-6小时  
+**目标市场**: 美股（NYSE/NASDAQ）  
 
 ---
 
@@ -82,15 +83,22 @@
 - 系统架构设计
 
 ### 计划学习
-- 量化投资策略开发
+- 美股投资策略
 - 金融数据分析
 - 回测框架搭建
 - 风险管理系统
 
-### 数据源
-- Tushare（免费）
-- AkShare（免费）
-- JoinQuant（免费/付费）
+### 美股数据源
+- yfinance（免费）- Yahoo Finance
+- pandas-datareader（免费）
+- Alpha Vantage（免费/付费）
+- TradingView（免费/付费）
+
+### 美股券商
+- Interactive Brokers（专业）
+- TD Ameritrade（ThinkOrSwim）
+- Charles Schwab
+- Firstrade（华人友好）
 
 ---
 
